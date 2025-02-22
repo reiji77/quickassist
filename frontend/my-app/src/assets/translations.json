@@ -1,0 +1,251 @@
+{
+  "Vietnamese": {
+    "LoginPage": {
+      "SignInText": "Đăng nhập",
+      "BoxEmail": "Thư điện tử",
+      "BoxPassword": "Mật khẩu",
+      "SignInButton": "Đăng nhập",
+      "ForgotPassword": "Quên mật khẩu",
+      "RegisterText": "Đăng ký",
+      "ErrorNoEmail": "Không có thư điện tử nào được cung cấp",
+      "ErrorNoPassword": "Không có mật khẩu được cung cấp",
+      "ErrorEmailDoesNotBelong": "Thư điện tử không thuộc tài khoản đã đăng ký",
+      "ErrorIncorrectPassword": "Mật khẩu sai"
+    },
+    "UserHome": {
+      "EmergencyButton": "Yêu cầu hỗ trợ khẩn cấp"
+    },
+    "HealthOrgEditInfo": {
+      "Title": "Chỉnh sửa thông tin tổ chức y tế",
+      "Name": "Tên",
+      "Description": "Mô tả",
+      "Url": "URL",
+      "SubmitButton": "Gửi",
+      "UpdateSuccess": "Thông tin đã được cập nhật thành công.",
+      "UpdateFailed": "Không thể cập nhật thông tin.",
+      "BackButton": "Trở về",
+      "NotSet": "Chưa thiết lập"
+    },    
+    "AdminMyAccount": {
+      "Title": "Tài khoản quản trị viên",
+      "EditInfoButton": "Chỉnh sửa thông tin",
+      "ChangeEmailButton": "Thay đổi thư điện tử",
+      "ChangePasswordButton": "Đổi mật khẩu"
+    },    
+    "HealthOrgMyAccount": {
+      "Title": "Tài khoản tổ chức y tế",
+      "EditInfoButton": "Chỉnh sửa thông tin",
+      "ChangePasswordButton": "Đổi mật khẩu",
+      "ChangeEmailButton": "Thay đổi thư điện tử"
+    }
+
+
+    ,    
+    "AdminEditInfo": {
+      "Title": "Chỉnh sửa thông tin quản trị viên",
+      "FirstName": "Tên",
+      "LastName": "Họ",
+      "SubmitButton": "Gửi",
+      "UpdateSuccess": "Thông tin đã được cập nhật thành công.",
+      "UpdateFailed": "Không thể cập nhật thông tin.",
+      "BackButton": "Trở về"
+    },
+    "navBarLinks": {
+      "Home": "Trang chủ",
+      "My Account": "Tài khoản của tôi",
+      "Health Services": "Dịch vụ y tế",
+      "Settings": "Cài đặt"
+    },
+    "subPages": {
+      "Home": "Trang chủ",
+      "My Account": "Tài khoản của tôi",
+      "Health Services": "Dịch vụ y tế",
+      "Settings": "Cài đặt"
+    },
+    "UserSettings": {
+      "SignOutButton": "Đăng xuất",
+      "DisplayedLanguage": "Ngôn ngữ hiển thị"
+    },
+    "EmergencyRequestOption": {
+      "DialogTitle": "Yêu cầu khẩn cấp",
+      "DialogContentText": "Bạn muốn được kết nối với một trong những người hướng dẫn sức khỏe biết tiếng Việt của chúng tôi như thế nào?",
+      "ButtonTextChat": "Tin nhắn",
+      "ButtonVideoCall": "ảnh thoại"
+    },
+    "EmergencyRequest": {
+      "WaitingPage": "Vui lòng đợi trong khi chúng tôi kết nối bạn với một trong những nhân viên điều hướng sức khỏe nói tiếng Việt của chúng tôi",
+      "CancelButton": "Hủy bỏ",
+      "AcceptButton": "Chấp nhận"
+    },
+    "EmergencyChat": {
+      "EmergencyChatPlaceholder": "Gửi tin nhắn",
+      "SidebarTab": "Thông tin",
+      "UserName": "Tên",
+      "UserLanguage": "Ngôn ngữ",
+      "UserMedicalConditions": "Điều kiện y tế",
+      "UserMedications": "Thuốc uống hiện tại",
+      "UserOtherInfo": "Thông tin khác",
+      "UserEmergencyContacts": "Địa chỉ liên lạc khẩn cấp",
+      "None": "Không có",
+      "ButtonEnd": "Kết thúc"
+    },
+    "Registration0Page": {
+      "FirstName": "Tên *",
+      "LastName": "Họ *",
+      "Email": "Thư điện tử *",
+      "MobileNumber": "Số điện thoại *",
+      "Password": "Mật khẩu *",
+      "RePassword": "Nhập lại mật khẩu *"
+    },
+    "RegistrationFlow": {
+      "UserRegistration": "Đăng ký người dùng",
+      "RegisteringAccount": "Chúng tôi đang đăng ký tài khoản của bạn",
+      "AlertFillFields": "Vui lòng điền vào tất cả các trường bắt buộc",
+      "PasswordMatch": "Mật khẩu không khớp",
+      "EmailRegistered": "Thư điện tử này đã được đăng ký. Vui lòng sử dụng một thư điện tử khác.",
+      "PasswordCharacters": "Mật khẩu phải dài ít nhất 8 ký tự.",
+      "PasswordCaseNumber": "Mật khẩu phải có chữ hoa, chữ thường và số.",
+      "PasswordFirstName": "Mật khẩu không thể chứa tên của bạn.",
+      "PasswordLastName": "Mật khẩu không thể chứa họ của bạn.",
+      "InvalidDOB": "Ngày sinh không phải là ngày hợp lệ. Đảm bảo bạn nhập ngày theo định dạng đã chỉ định.",
+      "RegistrationFailed": "Đăng ký không thành công.",
+      "TryAgain": "Không thể gửi yêu cầu. Vui lòng thử lại."
+    },
+    "RegistrationPage": {
+      "Sex": "Giới tính *",
+      "Male": "Nam",
+      "Female": "Nữ",
+      "Other": "Khác",
+      "DOB": "Ngày sinh",
+      "Address": "Địa chỉ",
+      "Suburb": "Ngoại ô",
+      "Postcode": "Mã bưu điện"
+    },
+    "RegistrationPageLayout": {
+      "Next": "Trang kế",
+      "Back": "Trang trước"
+    },
+    "MedInfoPage": {
+      "CurrentMedConds": "Điều kiện y tế hiện tại",
+      "CurrentMeds": "Thuốc uống hiện tại",
+      "OtherMedInfo": "Thông tin y tế khác"
+    },
+    "EmergencyContacts": {
+      "FormTitle": "Người liên hệ khẩn cấp (Chúng tôi sẽ thông báo cho những người liên hệ này bất cứ khi nào bạn yêu cầu hỗ trợ khẩn cấp)",
+      "ContactFirstName": "Tên người liên hệ",
+      "ContactLastName": "Họ người liên hệ",
+      "ContactPhoneNumber": "Diện thoại di động của người liên hệ",
+      "AddContact": "Thêm liên hệ",
+      "Next": "Trang kế"
+    },
+    "VerificationPage": {
+      "Instruction": "Nhập mã xác minh gồm 4 con số được gửi tới thư điện tử của bạn để hoàn tất việc đăng ký tài khoản",
+      "Done": "Hoàn tất",
+      "AlertWrongCode": "Mã bạn nhập sai."
+    },
+    "RegisterOptions": {
+      "title": "Chọn loại tài khoản để đăng ký",
+      "Back": "Trang trước"
+    },
+    "UserTypes": {
+      "User": "Người dùng",
+      "Admin": "Quản trị viên",
+      "Health Organisation": "Tổ chức Y tế",
+      "Health Navigator": "Điều hướng sức khỏe"
+    },
+    "ChangePassword": {
+      "Title": "Thay đổi mật khẩu",
+      "CurrentPassword": "Mật khẩu hiện tại",
+      "NewPassword": "Mật khẩu mới",
+      "ConfirmNewPassword": "Xác nhận mật khẩu mới",
+      "SubmitButton": "Gửi",
+      "BackButton": "Trở về",
+      "PasswordMismatch": "Mật khẩu mới không khớp.",
+      "PasswordChangedSuccess": "Thay đổi mật khẩu thành công.",
+      "PasswordChangeFailed": "Thay đổi mật khẩu không thành công.",
+      "ErrorOccurred": "Đã xảy ra lỗi khi thay đổi mật khẩu."
+    },
+    "ChangeEmail": {
+      "Title": "Thay đổi thư điện tử",
+      "CurrentEmail": "Thư điện tử hiện tại",
+      "NewEmail": "Thư điện tử mới",
+      "VerificationCode": "Mã xác minh",
+      "SendVerificationButton": "Gửi mã xác minh",
+      "VerifyAndChangeButton": "Xác minh và thay đổi",
+      "ErrorOccurred": "Đã xảy ra lỗi khi thay đổi thư điện tử.",
+      "BackButton": "Trở về"
+    },
+    "UserMyAccount": {
+      "Title": "Tài khoản của tôi",
+      "AccountInfoTitle": "Thông tin tài khoản",
+      "AccountInfoDescription": "Tại đây, bạn có thể cập nhật thông tin cá nhân và quản lý cài đặt tài khoản của mình.",
+      "ChangePasswordButton": "Thay đổi mật khẩu",
+      "EditInfoButton": "Chỉnh sửa thông tin",
+      "ChangeEmailButton": "Thay đổi thư điện tử"
+    },
+    "EditInfo": {
+      "Title": "Chỉnh sửa thông tin",
+      "FirstName": "Tên",
+      "LastName": "Họ",
+      "Email": "Thư điện tử",
+      "Password": "Mật khẩu",
+      "Sex": "Giới tính",
+      "PhoneNumber": "Số điện thoại",
+      "Language": "Ngôn ngữ",
+      "MedicalConditions": "Điều kiện y tế hiện tại",
+      "Medications": "Thuốc uống hiện tại",
+      "MedicalInfo": "Thông tin y tế khác",
+      "Address": "Địa chỉ",
+      "Suburb": "Ngoại ô",
+      "Postcode": "Mã bưu điện",
+      "DOB": "Ngày sinh (DD/MM/YYYY)",
+      "EmergencyContacts": "Liên hệ khẩn cấp",
+      "SubmitButton": "Gửi",
+      "UpdateSuccess": "Cập nhật thông tin thành công.",
+      "UpdateFailed": "Cập nhật thông tin không thành công.",
+      "BackButton": "Trở về",
+      "NotSet": "Chưa thiết lập",
+      "AddContact": "Thêm liên hệ",
+      "CurrentMedicalConditions": "Điều kiện y tế hiện tại",
+      "CurrentMedications": "Thuốc uống hiện tại",
+      "OtherMedicalInfo": "Thông tin y tế khác",
+      "Edit": "Chỉnh sửa",
+      "Delete": "Xóa",
+      "Done": "Xong"
+    },
+    "HealthNavigatorMyAccount": {
+      "Title": "Tài khoản của tôi",
+      "AccountInfoTitle": "Thông tin tài khoản",
+      "AccountInfoDescription": "Tại đây bạn có thể cập nhật thông tin cá nhân và quản lý cài đặt tài khoản của mình.",
+      "ChangePasswordButton": "Đổi mật khẩu",
+      "EditInfoButton": "Chỉnh sửa thông tin",
+      "ChangeEmailButton": "Thay đổi thư điện tử"
+    },
+    "HealthNavEditInfo": {
+      "Title": "Chỉnh sửa thông tin",
+      "FirstName": "Tên",
+      "LastName": "Họ",
+      "Email": "Thư điện tử",
+      "Languages": "Ngôn ngữ",
+      "SubmitButton": "Gửi",
+      "UpdateSuccess": "Thông tin đã được cập nhật thành công.",
+      "UpdateFailed": "Không thể cập nhật thông tin.",
+      "BackButton": "Quay lại",
+      "NotSet": "Chưa thiết lập"
+    },
+    "Posts": {
+        "Location": "Vị trí",
+        "Description": "Sự miêu tả",
+        "Make Post": "Tạo bài đăng",
+        "Delete": "Xóa",
+        "Title": "Tiêu đề",
+        "Last Updated": "Cập nhật lần cuối",
+        "Cancel": "Hủy bỏ",
+        "Save": "Lưu lại",
+        "LastUpdated": "Cập nhật lần cuối",
+        "Created": "được tạo ra tại",
+        "Edit": "Biên tập"
+    }
+    
+  }
+}

@@ -1,0 +1,17 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "6001:6001" 
+    
+    
+      
+  frontend:
+    build: ./frontend/my-app
+    ports:
+      - "3000:3000" 
+    environment:
+      - REACT_APP_BACKEND_URL=http://localhost:6001
+    
+    depends_on:
+      - backend
